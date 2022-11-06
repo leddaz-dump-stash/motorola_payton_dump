@@ -1,0 +1,14 @@
+# user 9 PPWS29.69-37-5 63ca8 release-keys
+- manufacturer: motorola
+- platform: 
+- codename: payton
+- flavor: user
+- release: 9
+- id: PPWS29.69-37-5
+- incremental: 63ca8
+- tags: release-keys
+- fingerprint: 
+- is_ab: true
+- brand: motorola
+- branch: user-9-PPWS29.69-37-5-63ca8-release-keys
+- repo: motorola_payton_dump

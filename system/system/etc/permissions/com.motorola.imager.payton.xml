@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.payton"
+       file="/system/framework/com.motorola.imager.payton" />
+</permissions>

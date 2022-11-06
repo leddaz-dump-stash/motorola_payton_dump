@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Motorola Mobility LLC,
+  ~ All Rights Reserved.
+  ~ Motorola Mobility Confidential Restricted.
+ -->
+
+<permissions>
+    <privapp-permissions package="com.motorola.motosound">
+        <permission name="android.permission.BLUETOOTH_PRIVILEGED" />
+    </privapp-permissions>
+</permissions>

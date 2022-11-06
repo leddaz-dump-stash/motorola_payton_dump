@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=63ca8
+ro.build.version.ci=29
+ro.build.version.revision=1
+ro.mot.build.guid=66f57058213a48c
+ro.mot.base_buildid=PPW29.69-37/526c7
+persist.radio.fi_supported=1
+ro.product.name=payton
+ro.mot.build.oem.product=payton
+ro.mot.build.customerid=retail
+ro.product.device=payton
